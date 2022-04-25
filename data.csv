@@ -1,0 +1,257 @@
+﻿Role,WorkingTime,VizzingTime,Responses
+Academic/Teacher,< 20 hrs,None,2
+Academic/Teacher,< 20 hrs,<= 5 hrs,6
+Academic/Teacher,< 20 hrs,6 to 10 hrs,1
+Academic/Teacher,< 20 hrs,11 to 20 hrs,1
+Academic/Teacher,20 to 29 hrs,<= 5 hrs,1
+Academic/Teacher,20 to 29 hrs,6 to 10 hrs,2
+Academic/Teacher,20 to 29 hrs,21 to 30 hrs,1
+Academic/Teacher,30 to 39 hrs,None,5
+Academic/Teacher,30 to 39 hrs,<= 5 hrs,15
+Academic/Teacher,30 to 39 hrs,6 to 10 hrs,11
+Academic/Teacher,30 to 39 hrs,11 to 20 hrs,3
+Academic/Teacher,40 to 49 hrs,None,4
+Academic/Teacher,40 to 49 hrs,<= 5 hrs,26
+Academic/Teacher,40 to 49 hrs,6 to 10 hrs,14
+Academic/Teacher,40 to 49 hrs,11 to 20 hrs,5
+Academic/Teacher,40 to 49 hrs,21 to 30 hrs,4
+Academic/Teacher,50 to 59 hrs,None,4
+Academic/Teacher,50 to 59 hrs,<= 5 hrs,11
+Academic/Teacher,50 to 59 hrs,6 to 10 hrs,6
+Academic/Teacher,50 to 59 hrs,11 to 20 hrs,1
+Academic/Teacher,60 to 69 hrs,None,2
+Academic/Teacher,60 to 69 hrs,<= 5 hrs,3
+Academic/Teacher,60 to 69 hrs,6 to 10 hrs,1
+Academic/Teacher,>= 70 hrs,6 to 10 hrs,1
+Academic/Teacher,>= 70 hrs,21 to 30 hrs,1
+Academic/Teacher,>= 70 hrs,> 30 hrs,1
+Student,< 20 hrs,None,5
+Student,< 20 hrs,<= 5 hrs,11
+Student,< 20 hrs,6 to 10 hrs,6
+Student,< 20 hrs,11 to 20 hrs,2
+Student,20 to 29 hrs,None,2
+Student,20 to 29 hrs,<= 5 hrs,5
+Student,20 to 29 hrs,6 to 10 hrs,5
+Student,20 to 29 hrs,11 to 20 hrs,2
+Student,20 to 29 hrs,21 to 30 hrs,1
+Student,30 to 39 hrs,None,5
+Student,30 to 39 hrs,<= 5 hrs,9
+Student,30 to 39 hrs,6 to 10 hrs,5
+Student,30 to 39 hrs,11 to 20 hrs,2
+Student,30 to 39 hrs,21 to 30 hrs,1
+Student,30 to 39 hrs,> 30 hrs,1
+Student,40 to 49 hrs,None,2
+Student,40 to 49 hrs,<= 5 hrs,11
+Student,40 to 49 hrs,6 to 10 hrs,5
+Student,40 to 49 hrs,11 to 20 hrs,3
+Student,40 to 49 hrs,21 to 30 hrs,3
+Student,50 to 59 hrs,None,1
+Student,50 to 59 hrs,<= 5 hrs,1
+Student,50 to 59 hrs,11 to 20 hrs,3
+Student,50 to 59 hrs,21 to 30 hrs,2
+Student,60 to 69 hrs,6 to 10 hrs,1
+Student,60 to 69 hrs,11 to 20 hrs,1
+Student,>= 70 hrs,<= 5 hrs,1
+Analyst,< 20 hrs,None,3
+Analyst,< 20 hrs,<= 5 hrs,10
+Analyst,< 20 hrs,6 to 10 hrs,2
+Analyst,20 to 29 hrs,None,5
+Analyst,20 to 29 hrs,<= 5 hrs,6
+Analyst,20 to 29 hrs,6 to 10 hrs,10
+Analyst,20 to 29 hrs,11 to 20 hrs,5
+Analyst,20 to 29 hrs,> 30 hrs,1
+Analyst,30 to 39 hrs,None,7
+Analyst,30 to 39 hrs,<= 5 hrs,73
+Analyst,30 to 39 hrs,6 to 10 hrs,43
+Analyst,30 to 39 hrs,11 to 20 hrs,19
+Analyst,30 to 39 hrs,21 to 30 hrs,3
+Analyst,30 to 39 hrs,> 30 hrs,1
+Analyst,40 to 49 hrs,None,18
+Analyst,40 to 49 hrs,<= 5 hrs,129
+Analyst,40 to 49 hrs,6 to 10 hrs,100
+Analyst,40 to 49 hrs,11 to 20 hrs,52
+Analyst,40 to 49 hrs,21 to 30 hrs,13
+Analyst,50 to 59 hrs,None,2
+Analyst,50 to 59 hrs,<= 5 hrs,12
+Analyst,50 to 59 hrs,6 to 10 hrs,14
+Analyst,50 to 59 hrs,11 to 20 hrs,10
+Analyst,50 to 59 hrs,21 to 30 hrs,1
+Analyst,60 to 69 hrs,<= 5 hrs,3
+Analyst,60 to 69 hrs,6 to 10 hrs,4
+Analyst,60 to 69 hrs,21 to 30 hrs,1
+Analyst,>= 70 hrs,6 to 10 hrs,1
+Analyst,>= 70 hrs,11 to 20 hrs,1
+Analyst,>= 70 hrs,21 to 30 hrs,3
+Analyst,>= 70 hrs,> 30 hrs,1
+Cartographer,< 20 hrs,<= 5 hrs,2
+Cartographer,30 to 39 hrs,<= 5 hrs,1
+Cartographer,40 to 49 hrs,None,1
+Cartographer,40 to 49 hrs,<= 5 hrs,2
+Cartographer,40 to 49 hrs,6 to 10 hrs,3
+Cartographer,40 to 49 hrs,21 to 30 hrs,1
+Cartographer,50 to 59 hrs,11 to 20 hrs,1
+Designer,< 20 hrs,None,2
+Designer,< 20 hrs,<= 5 hrs,10
+Designer,< 20 hrs,6 to 10 hrs,3
+Designer,< 20 hrs,11 to 20 hrs,4
+Designer,20 to 29 hrs,None,4
+Designer,20 to 29 hrs,<= 5 hrs,5
+Designer,20 to 29 hrs,6 to 10 hrs,1
+Designer,20 to 29 hrs,11 to 20 hrs,8
+Designer,20 to 29 hrs,21 to 30 hrs,1
+Designer,30 to 39 hrs,None,5
+Designer,30 to 39 hrs,<= 5 hrs,14
+Designer,30 to 39 hrs,6 to 10 hrs,27
+Designer,30 to 39 hrs,11 to 20 hrs,22
+Designer,30 to 39 hrs,21 to 30 hrs,6
+Designer,30 to 39 hrs,> 30 hrs,1
+Designer,40 to 49 hrs,None,4
+Designer,40 to 49 hrs,<= 5 hrs,23
+Designer,40 to 49 hrs,6 to 10 hrs,22
+Designer,40 to 49 hrs,11 to 20 hrs,31
+Designer,40 to 49 hrs,21 to 30 hrs,13
+Designer,40 to 49 hrs,> 30 hrs,5
+Designer,50 to 59 hrs,<= 5 hrs,2
+Designer,50 to 59 hrs,6 to 10 hrs,3
+Designer,50 to 59 hrs,11 to 20 hrs,4
+Designer,50 to 59 hrs,21 to 30 hrs,3
+Designer,60 to 69 hrs,11 to 20 hrs,3
+Designer,60 to 69 hrs,21 to 30 hrs,1
+Designer,60 to 69 hrs,> 30 hrs,1
+Designer,>= 70 hrs,21 to 30 hrs,1
+Developer,< 20 hrs,None,2
+Developer,< 20 hrs,<= 5 hrs,2
+Developer,< 20 hrs,6 to 10 hrs,1
+Developer,< 20 hrs,21 to 30 hrs,1
+Developer,20 to 29 hrs,<= 5 hrs,6
+Developer,20 to 29 hrs,6 to 10 hrs,1
+Developer,20 to 29 hrs,11 to 20 hrs,3
+Developer,20 to 29 hrs,21 to 30 hrs,2
+Developer,30 to 39 hrs,None,3
+Developer,30 to 39 hrs,<= 5 hrs,15
+Developer,30 to 39 hrs,6 to 10 hrs,15
+Developer,30 to 39 hrs,11 to 20 hrs,17
+Developer,30 to 39 hrs,21 to 30 hrs,7
+Developer,30 to 39 hrs,> 30 hrs,1
+Developer,40 to 49 hrs,None,3
+Developer,40 to 49 hrs,<= 5 hrs,23
+Developer,40 to 49 hrs,6 to 10 hrs,19
+Developer,40 to 49 hrs,11 to 20 hrs,25
+Developer,40 to 49 hrs,21 to 30 hrs,8
+Developer,50 to 59 hrs,<= 5 hrs,9
+Developer,50 to 59 hrs,6 to 10 hrs,3
+Developer,50 to 59 hrs,11 to 20 hrs,1
+Developer,50 to 59 hrs,21 to 30 hrs,3
+Developer,50 to 59 hrs,> 30 hrs,2
+Developer,60 to 69 hrs,21 to 30 hrs,1
+Developer,>= 70 hrs,<= 5 hrs,1
+Developer,>= 70 hrs,11 to 20 hrs,3
+Engineer,< 20 hrs,<= 5 hrs,1
+Engineer,< 20 hrs,6 to 10 hrs,2
+Engineer,20 to 29 hrs,None,1
+Engineer,20 to 29 hrs,<= 5 hrs,2
+Engineer,20 to 29 hrs,6 to 10 hrs,1
+Engineer,30 to 39 hrs,None,3
+Engineer,30 to 39 hrs,<= 5 hrs,11
+Engineer,30 to 39 hrs,6 to 10 hrs,4
+Engineer,30 to 39 hrs,11 to 20 hrs,4
+Engineer,30 to 39 hrs,21 to 30 hrs,2
+Engineer,30 to 39 hrs,> 30 hrs,1
+Engineer,40 to 49 hrs,None,2
+Engineer,40 to 49 hrs,<= 5 hrs,23
+Engineer,40 to 49 hrs,6 to 10 hrs,16
+Engineer,40 to 49 hrs,11 to 20 hrs,9
+Engineer,40 to 49 hrs,21 to 30 hrs,2
+Engineer,40 to 49 hrs,> 30 hrs,1
+Engineer,50 to 59 hrs,<= 5 hrs,3
+Engineer,50 to 59 hrs,6 to 10 hrs,4
+Engineer,50 to 59 hrs,11 to 20 hrs,2
+Engineer,50 to 59 hrs,21 to 30 hrs,1
+Engineer,50 to 59 hrs,> 30 hrs,1
+Journalist,< 20 hrs,None,1
+Journalist,< 20 hrs,<= 5 hrs,1
+Journalist,20 to 29 hrs,<= 5 hrs,2
+Journalist,20 to 29 hrs,6 to 10 hrs,2
+Journalist,30 to 39 hrs,<= 5 hrs,3
+Journalist,30 to 39 hrs,6 to 10 hrs,4
+Journalist,30 to 39 hrs,11 to 20 hrs,8
+Journalist,40 to 49 hrs,None,1
+Journalist,40 to 49 hrs,<= 5 hrs,10
+Journalist,40 to 49 hrs,6 to 10 hrs,7
+Journalist,40 to 49 hrs,11 to 20 hrs,13
+Journalist,40 to 49 hrs,21 to 30 hrs,2
+Journalist,50 to 59 hrs,<= 5 hrs,2
+Journalist,50 to 59 hrs,6 to 10 hrs,2
+Journalist,50 to 59 hrs,11 to 20 hrs,1
+Journalist,60 to 69 hrs,<= 5 hrs,2
+Journalist,>= 70 hrs,6 to 10 hrs,1
+Journalist,>= 70 hrs,21 to 30 hrs,1
+Leadership,< 20 hrs,<= 5 hrs,2
+Leadership,< 20 hrs,6 to 10 hrs,3
+Leadership,20 to 29 hrs,None,1
+Leadership,20 to 29 hrs,<= 5 hrs,6
+Leadership,20 to 29 hrs,6 to 10 hrs,1
+Leadership,20 to 29 hrs,11 to 20 hrs,1
+Leadership,30 to 39 hrs,None,4
+Leadership,30 to 39 hrs,<= 5 hrs,21
+Leadership,30 to 39 hrs,6 to 10 hrs,9
+Leadership,30 to 39 hrs,11 to 20 hrs,13
+Leadership,40 to 49 hrs,None,20
+Leadership,40 to 49 hrs,<= 5 hrs,81
+Leadership,40 to 49 hrs,6 to 10 hrs,38
+Leadership,40 to 49 hrs,11 to 20 hrs,14
+Leadership,40 to 49 hrs,21 to 30 hrs,7
+Leadership,50 to 59 hrs,None,4
+Leadership,50 to 59 hrs,<= 5 hrs,29
+Leadership,50 to 59 hrs,6 to 10 hrs,11
+Leadership,50 to 59 hrs,11 to 20 hrs,5
+Leadership,50 to 59 hrs,21 to 30 hrs,2
+Leadership,60 to 69 hrs,<= 5 hrs,8
+Leadership,60 to 69 hrs,6 to 10 hrs,2
+Leadership,60 to 69 hrs,11 to 20 hrs,2
+Leadership,>= 70 hrs,6 to 10 hrs,3
+Leadership,>= 70 hrs,11 to 20 hrs,3
+Leadership,>= 70 hrs,21 to 30 hrs,1
+Scientist,< 20 hrs,None,2
+Scientist,< 20 hrs,<= 5 hrs,2
+Scientist,20 to 29 hrs,<= 5 hrs,4
+Scientist,20 to 29 hrs,6 to 10 hrs,1
+Scientist,20 to 29 hrs,11 to 20 hrs,1
+Scientist,20 to 29 hrs,> 30 hrs,1
+Scientist,30 to 39 hrs,None,1
+Scientist,30 to 39 hrs,<= 5 hrs,16
+Scientist,30 to 39 hrs,6 to 10 hrs,13
+Scientist,30 to 39 hrs,11 to 20 hrs,2
+Scientist,40 to 49 hrs,None,7
+Scientist,40 to 49 hrs,<= 5 hrs,25
+Scientist,40 to 49 hrs,6 to 10 hrs,22
+Scientist,40 to 49 hrs,11 to 20 hrs,5
+Scientist,40 to 49 hrs,> 30 hrs,1
+Scientist,50 to 59 hrs,None,1
+Scientist,50 to 59 hrs,<= 5 hrs,1
+Scientist,50 to 59 hrs,6 to 10 hrs,7
+Scientist,50 to 59 hrs,11 to 20 hrs,1
+Scientist,60 to 69 hrs,6 to 10 hrs,3
+Scientist,60 to 69 hrs,21 to 30 hrs,1
+Scientist,>= 70 hrs,<= 5 hrs,3
+None of these describes my role,< 20 hrs,None,1
+None of these describes my role,< 20 hrs,11 to 20 hrs,1
+None of these describes my role,20 to 29 hrs,<= 5 hrs,3
+None of these describes my role,20 to 29 hrs,6 to 10 hrs,2
+None of these describes my role,20 to 29 hrs,11 to 20 hrs,1
+None of these describes my role,30 to 39 hrs,None,1
+None of these describes my role,30 to 39 hrs,<= 5 hrs,20
+None of these describes my role,30 to 39 hrs,6 to 10 hrs,5
+None of these describes my role,30 to 39 hrs,11 to 20 hrs,2
+None of these describes my role,40 to 49 hrs,None,2
+None of these describes my role,40 to 49 hrs,<= 5 hrs,23
+None of these describes my role,40 to 49 hrs,6 to 10 hrs,13
+None of these describes my role,40 to 49 hrs,11 to 20 hrs,6
+None of these describes my role,40 to 49 hrs,21 to 30 hrs,1
+None of these describes my role,40 to 49 hrs,> 30 hrs,2
+None of these describes my role,50 to 59 hrs,None,1
+None of these describes my role,50 to 59 hrs,<= 5 hrs,5
+None of these describes my role,50 to 59 hrs,11 to 20 hrs,2
+None of these describes my role,60 to 69 hrs,None,1
+None of these describes my role,60 to 69 hrs,<= 5 hrs,2
+None of these describes my role,>= 70 hrs,6 to 10 hrs,1
